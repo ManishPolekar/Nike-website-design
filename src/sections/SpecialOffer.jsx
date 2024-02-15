@@ -32,4 +32,4 @@ const SpecialOffer = () => {
   )
 }
 
-export default SpecialOffer
+export default SpecialOffer;
